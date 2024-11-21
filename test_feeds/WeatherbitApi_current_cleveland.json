@@ -1,0 +1,51 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": 11.7,
+      "aqi": 73,
+      "city_name": "Cleveland",
+      "clouds": 87,
+      "country_code": "US",
+      "datetime": "2023-02-20:13",
+      "dewpt": 8.7,
+      "dhi": 72.94,
+      "dni": 648.11,
+      "elev_angle": 17.21,
+      "ghi": 257.46,
+      "gust": 9.765625,
+      "h_angle": -75,
+      "lat": 33.99093,
+      "lon": -86.57749,
+      "ob_time": "2023-02-20 14:19",
+      "pod": "d",
+      "precip": 0,
+      "pres": 994.5,
+      "rh": 82,
+      "slp": 1013.13257,
+      "snow": 0,
+      "solar_rad": 126,
+      "sources": [
+        "rtma"
+      ],
+      "state_code": "AL",
+      "station": "TT404",
+      "sunrise": "12:23",
+      "sunset": "23:34",
+      "temp": 11.7,
+      "timezone": "America/Chicago",
+      "ts": 1676902794,
+      "uv": 0.6363647,
+      "vis": 16,
+      "weather": {
+        "icon": "c03d",
+        "description": "Broken clouds",
+        "code": 803
+      },
+      "wind_cdir": "SW",
+      "wind_cdir_full": "southwest",
+      "wind_dir": 223,
+      "wind_spd": 4.9308205
+    }
+  ]
+}

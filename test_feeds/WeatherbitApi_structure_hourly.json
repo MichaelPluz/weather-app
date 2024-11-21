@@ -1,0 +1,32 @@
+app_temp --
+clouds
+clouds_hi
+clouds_low
+clouds_mid
+datetime
+dewpt
+dhi --
+dni --
+ghi --
+ozone
+pod --
+pop
+precip
+pres
+rh
+slp
+snow
+snow_depth
+solar_rad --
+temp
+timestamp_local
+timestamp_utc
+ts
+uv
+vis
+weather
+wind_cdir
+wind_cdir_full
+wind_dir
+wind_gust_spd
+wind_spd

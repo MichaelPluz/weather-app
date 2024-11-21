@@ -1,0 +1,32 @@
+{
+  "N": "north",
+  "S": "south",
+  "S_": "south",
+  "E": "east",
+  "W": "west",
+  "adj_flection": "",
+  "adv_flection": "",
+
+
+  "uvi":
+  {
+    "Low": "Low",
+    "Moderate": "Moderate",
+    "High": "High",
+    "Very high": "Very high",
+    "Extreme": "Extreme"
+  },
+
+  "aqi":
+  {
+    "Good": "Good",
+    "Moderate": "Moderate",
+    "Unhealthy for Sensitive Groups": "Unhealthy for Sensitive Groups",
+    "Unhealthy": "Unhealthy",
+    "Very Unhealthy": "Very Unhealthy",
+    "Hazardous": "Hazardous"
+  },
+
+  "StartInstruction_1": "Click<0></0> to get your location"
+
+}

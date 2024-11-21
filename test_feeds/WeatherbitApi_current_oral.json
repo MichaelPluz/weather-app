@@ -1,0 +1,51 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": -22.7,
+      "aqi": 21,
+      "city_name": "Oral",
+      "clouds": 86,
+      "country_code": "KZ",
+      "datetime": "2023-02-08:14",
+      "dewpt": -17.1,
+      "dhi": 0,
+      "dni": 0,
+      "elev_angle": -13.53,
+      "ghi": 0,
+      "gust": null,
+      "h_angle": -90,
+      "lat": 51.2098,
+      "lon": 51.3704,
+      "ob_time": "2023-02-08 14:43",
+      "pod": "n",
+      "precip": 0,
+      "pres": 1029.8,
+      "rh": 84,
+      "slp": 1035,
+      "snow": 0,
+      "solar_rad": 0,
+      "sources": [
+        "UARR"
+      ],
+      "state_code": "07",
+      "station": "UARR",
+      "sunrise": "03:58",
+      "sunset": "13:38",
+      "temp": -15,
+      "timezone": "Asia/Oral",
+      "ts": 1675867418,
+      "uv": 0,
+      "vis": 16,
+      "weather": {
+        "description": "Broken clouds",
+        "code": 803,
+        "icon": "c03n"
+      },
+      "wind_cdir": "N",
+      "wind_cdir_full": "north",
+      "wind_dir": 350,
+      "wind_spd": 4
+    }
+  ]
+}

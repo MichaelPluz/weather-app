@@ -1,0 +1,51 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "app_temp": -16.8,
+      "aqi": 7,
+      "city_name": "Moscow",
+      "clouds": 83,
+      "country_code": "RU",
+      "datetime": "2023-02-21:13",
+      "dewpt": -14.9,
+      "dhi": 35.5,
+      "dni": 303.32,
+      "elev_angle": 5.02,
+      "ghi": 52.54,
+      "gust": 7.991801,
+      "h_angle": 72,
+      "lat": 55.75222,
+      "lon": 37.61556,
+      "ob_time": "2023-02-21 13:56",
+      "pod": "d",
+      "precip": 0,
+      "pres": 979.32416,
+      "rh": 75,
+      "slp": 998.2413,
+      "snow": 0,
+      "solar_rad": 30.2,
+      "sources": [
+        "analysis"
+      ],
+      "state_code": "48",
+      "station": "UUMO",
+      "sunrise": "04:38",
+      "sunset": "14:47",
+      "temp": -11.3,
+      "timezone": "Europe/Moscow",
+      "ts": 1676987761,
+      "uv": 0.53827035,
+      "vis": 5,
+      "weather": {
+        "code": 803,
+        "icon": "c03d",
+        "description": "Broken clouds"
+      },
+      "wind_cdir": "N",
+      "wind_cdir_full": "north",
+      "wind_dir": 9,
+      "wind_spd": 2.826882
+    }
+  ]
+}
